@@ -1,2 +1,2 @@
 # sqgff.github.io
-This is resposity for my personal website.
+This is respository for my personal website.
